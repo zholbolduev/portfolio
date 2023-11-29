@@ -14,11 +14,11 @@ import {
   sass,
   // next,
   bullz,
-  glassfrog,
-  bunz,
+  contact_manager,
   wom,
   makers,
   makersImg,
+  genshin_clone,
 } from "../assets";
 
 export const navLinks = [
@@ -142,9 +142,9 @@ const projects = [
 
   {
     id: "project-2",
-    name: "Glassfrog",
+    name: "Contact-Manager",
     description:
-      "Holacracy support tool that helps design and maintain the Holacracy structure in organizations.",
+      "Developed a contact manager with features for adding, editing, and deleting contacts, as well as searching and detailed contact viewing.",
     tags: [
       {
         name: "react",
@@ -159,14 +159,14 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: glassfrog,
-    demo: "https://www.glassfrog.com/",
+    image: contact_manager,
+    demo: "https://github.com/zholbolduev/contact-manager",
   },
   {
     id: "project-3",
-    name: "Bunz",
+    name: "Genshin clone",
     description:
-      "Every day, thousands of people meet on Bunz to trade for everything from clothing and furniture to houseplants and art.",
+      "The Genshin Clone is a web project inspired by the popular game Genshin Impact.",
     tags: [
       {
         name: "nextjs",
@@ -181,8 +181,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: bunz,
-    demo: "https://bunz.com/",
+    image: genshin_clone,
+    demo: "https://github.com/zholbolduev/genshin-clone",
   },
   {
     id: "project-4",

@@ -41,11 +41,11 @@ import sass from "./tech/sass.png";
 import makersImg from "./company/makers.svg";
 
 import bullz from "./projects/bullz.png";
-import bunz from "./projects/bunz.png";
-import glassfrog from "./projects/glassfrog.png";
 import makers from "./projects/makers.png";
 import wom from "./projects/wom.png";
 import yeay from "./projects/yeay.png";
+import contact_manager from "./projects/contact-manager.png";
+import genshin_clone from "./projects/genshin-clone.png";
 
 export {
   bwmap,
@@ -73,8 +73,8 @@ export {
   redux,
   typescript,
   bullz,
-  glassfrog,
-  bunz,
+  contact_manager,
+  genshin_clone,
   wom,
   makers,
   yeay,
