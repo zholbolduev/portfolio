@@ -13,9 +13,9 @@ import {
   material,
   sass,
   // next,
-  bullz,
+  // bullz,
   contact_manager,
-  wom,
+  // wom,
   makers,
   makersImg,
   genshin_clone,
@@ -184,41 +184,41 @@ const projects = [
     image: genshin_clone,
     demo: "https://github.com/zholbolduev/genshin-clone",
   },
-  {
-    id: "project-4",
-    name: "Bullz",
-    description:
-      "BULLZ is a social app, focused on video recommendations for all things web3, crypto and blockchain.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: bullz,
-    demo: "https://www.bullz.com/",
-  },
-  {
-    id: "project-5",
-    name: "WOM",
-    description: `The WOM Protocol is a brand new user-generated marketing channel that leverages the most effective form of marketing: honest word-of-mouth recommendations.`,
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: wom,
-    demo: "https://www.womprotocol.io/",
-  },
+  // {
+  //   id: "project-4",
+  //   name: "Bullz",
+  //   description:
+  //     "BULLZ is a social app, focused on video recommendations for all things web3, crypto and blockchain.",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //   ],
+  //   image: bullz,
+  //   demo: "https://www.bullz.com/",
+  // },
+  // {
+  //   id: "project-5",
+  //   name: "WOM",
+  //   description: `The WOM Protocol is a brand new user-generated marketing channel that leverages the most effective form of marketing: honest word-of-mouth recommendations.`,
+  //   tags: [
+  //     {
+  //       name: "nextjs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "supabase",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: wom,
+  //   demo: "https://www.womprotocol.io/",
+  // },
 ];
 
 export { services, technologies, experiences, projects };
