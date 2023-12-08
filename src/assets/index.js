@@ -36,7 +36,7 @@ import typescript from "./tech/typescript.png";
 import vue from "./tech/vue.png";
 import material from "./tech/material.svg";
 import sass from "./tech/sass.png";
-// import next from "./tech/next.png";
+import next from "./tech/next.png";
 
 import makersImg from "./company/makers.svg";
 
@@ -82,7 +82,7 @@ export {
   vue,
   material,
   sass,
-  // next,
+  next,
   faGithub,
   faLinkedin,
   faTelegram,

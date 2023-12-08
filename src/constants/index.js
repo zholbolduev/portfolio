@@ -12,7 +12,7 @@ import {
   github,
   material,
   sass,
-  // next,
+  next,
   // bullz,
   contact_manager,
   // wom,
@@ -84,10 +84,10 @@ const technologies = [
     name: "vue",
     icon: vue,
   },
-  // {
-  //   name: "next",
-  //   icon: next,
-  // },
+  {
+    name: "next",
+    icon: next,
+  },
   {
     name: "git",
     icon: git,
